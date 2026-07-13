@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+    background-image:linear-gradient(to top, #001aab, #73a9ff);
+    text-align: center;
+}
+
+h1{
+    color:rgb(255, 136, 0);
+    text-decoration:underline;
+    font-family:serif
+}
+
+p{
+    color:rgb(255, 136, 0);
+    font-size: large;
+    font-family: serif;
+}
